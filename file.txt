@@ -1,2 +1,5 @@
 From remote to local commit from local without any config of remote 
 Added new things in a way you can't resist
+
+
+Vijay Ajith Vikram Surya
