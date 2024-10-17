@@ -1,0 +1,2 @@
+From remote to local
+commit from local without any config of remote
